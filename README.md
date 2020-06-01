@@ -1,8 +1,8 @@
 # HNGi.7
 This is an internship program for beginners 
 ## FEATURE
-*frontend
-*backend
-*ui/ux
+* Front-End
+* Ui/Ux
+* Back-End
 ## COMMUNICATION CHANNEL
 Our major communication channel is slack
